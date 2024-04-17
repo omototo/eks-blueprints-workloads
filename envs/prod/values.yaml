@@ -4,6 +4,8 @@ argoProject: ''
 
 labels:
   env: prod
+  test: test
+  tal: rocks
 spec:
   destination:
     server: https://kubernetes.default.svc
